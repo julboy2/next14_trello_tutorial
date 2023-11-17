@@ -10,5 +10,6 @@ https://www.youtube.com/watch?v=pRybm9lXW2c&t=11534s
 tab 키를 누르면 text 수정가능
 <br />
 - npx shadcn-ui@latest add button
-
+<br />
+components/ui/buitton.tsx 버튼 component 가 생성됨
 
