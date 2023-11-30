@@ -13,3 +13,9 @@ tab 키를 누르면 text 수정가능
 <br />
 components/ui/buitton.tsx 버튼 component 가 생성됨
 
+<br />
+<br />
+### Authentication
+<br />
+Clerk: https://dub.sh/y3MvWRC
+<br />
