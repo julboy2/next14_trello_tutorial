@@ -12,10 +12,9 @@ tab 키를 누르면 text 수정가능
 - npx shadcn-ui@latest add button
 <br />
 components/ui/buitton.tsx 버튼 component 가 생성됨
+<br />
 
-<br />
-<br />
-### Authentication
+###  Authentication 
 <br />
 Clerk: https://dub.sh/y3MvWRC
 <br />
