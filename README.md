@@ -20,3 +20,8 @@ https://clerk.com/
 <br />
 Clerk: https://dub.sh/y3MvWRC
 <br />
+<br />
+<br />
+npx shadcn-ui@latest add skeleton
+<br />
+npx shadcn-ui@latest add accordion
