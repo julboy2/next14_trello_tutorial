@@ -25,3 +25,5 @@ Clerk: https://dub.sh/y3MvWRC
 npx shadcn-ui@latest add skeleton
 <br />
 npx shadcn-ui@latest add accordion
+<br />
+npx shadcn-ui@latest add separator
