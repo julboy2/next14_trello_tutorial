@@ -29,7 +29,7 @@ export function Navbar() {
       <div className="ml-auto flex items-center gap-x-2">
         <OrganizationSwitcher
           hidePersonal
-          afterCreateOrganizationUrl="/oranization/:id"
+          afterCreateOrganizationUrl="/organization/:id"
           afterLeaveOrganizationUrl="/select-org"
           afterSelectOrganizationUrl="/organization/:id"
           appearance={{
