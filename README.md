@@ -35,4 +35,5 @@ npx shadcn-ui@latest add sheet
 npx prisma init
 <br />
 npx prisma generate
-
+<br />
+npx prisma db push
