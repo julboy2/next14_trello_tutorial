@@ -37,3 +37,7 @@ npx prisma init
 npx prisma generate
 <br />
 npx prisma db push
+<br />
+npx prisma studio
+<br />
+
