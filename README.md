@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=pRybm9lXW2c&t=11534s
 <br />
-2:34:00
+2:46:00
 <br />
 <br />
 ### shadcn-ui 설치
@@ -27,3 +27,6 @@ npx shadcn-ui@latest add skeleton
 npx shadcn-ui@latest add accordion
 <br />
 npx shadcn-ui@latest add separator
+<br />
+npx shadnc-ui@latest add sheet
+<br />
