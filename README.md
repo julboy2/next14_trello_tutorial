@@ -28,5 +28,5 @@ npx shadcn-ui@latest add accordion
 <br />
 npx shadcn-ui@latest add separator
 <br />
-npx shadnc-ui@latest add sheet
+npx shadcn-ui@latest add sheet
 <br />
