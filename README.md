@@ -30,3 +30,9 @@ npx shadcn-ui@latest add separator
 <br />
 npx shadcn-ui@latest add sheet
 <br />
+<br />
+<br />
+npx prisma init
+<br />
+npx prisma generate
+
