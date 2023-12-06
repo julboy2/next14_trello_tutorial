@@ -34,6 +34,9 @@ npx shadcn-ui@latest add input
 <br />
 npx shadcn-ui@latest add label
 <br />
+npx shadcn-ui@latest add tooltip
+<br />
+<br />
 <br />
 npx prisma init
 <br />
