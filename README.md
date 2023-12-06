@@ -36,7 +36,7 @@ npx shadcn-ui@latest add label
 <br />
 npx shadcn-ui@latest add tooltip
 <br />
-npx shadcn-ui@latest add propover
+npx shadcn-ui@latest add popover
 <br />
 <br />
 <br />
