@@ -32,6 +32,7 @@ npx shadcn-ui@latest add sheet
 <br />
 npx shadcn-ui@latest add input
 <br />
+npx shadcn-ui@latest add label
 <br />
 <br />
 npx prisma init
