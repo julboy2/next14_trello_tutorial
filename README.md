@@ -48,5 +48,8 @@ npx prisma generate
 npx prisma db push
 <br />
 npx prisma studio
+<br /><br />
+<br /><br />
+이미지 업로드<br />
+unsplash developers
 <br />
-
