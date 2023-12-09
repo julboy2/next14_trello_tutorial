@@ -38,6 +38,8 @@ npx shadcn-ui@latest add tooltip
 <br />
 npx shadcn-ui@latest add popover
 <br />
+npx shadcn-ui@latest add textarea
+<br />
 <br />
 <br />
 <br />
