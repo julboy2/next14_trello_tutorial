@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=pRybm9lXW2c&t=11534s
 <br />
-8:06:00
+8:19:00
 <br />
 <br />
 ### shadcn-ui 설치
