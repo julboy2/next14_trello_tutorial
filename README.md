@@ -40,6 +40,8 @@ npx shadcn-ui@latest add popover
 <br />
 npx shadcn-ui@latest add textarea
 <br />
+npx shadcn-ui@latest add dialog
+<br />
 <br />
 <br />
 <br />
